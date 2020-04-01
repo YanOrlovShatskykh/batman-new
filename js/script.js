@@ -11,6 +11,8 @@ $(document).ready(function() {
     elem.style.display = 'none';
   });
 
+
+
   let tabsItem = $('.tabs-item');
 
   tabsItem.on('click', function(event) {
